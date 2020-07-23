@@ -1,3 +1,4 @@
+## [2.1.1] - 2020-07-23
 ### Changed
 - replace ',' with '.' for metrics [#45](https://gitlab-si.cordonweb.com/webagency/pim/icecat-mapper/-/issues/45)
 
