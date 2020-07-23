@@ -1,3 +1,4 @@
+### [2.1.2] - 2020-07-23
 ### Fixed
 - change pim version
 
