@@ -246,7 +246,7 @@ class XmlProductDecoder implements DecoderInterface
         $measure = $this->measureRepository->find($icecatUnit);
 
         return [
-            'amount' => $icecatValue,
+            'amount' => str_replace(',','.',$icecatValue),
             'unit' => $measure['unit'],
         ];
     }

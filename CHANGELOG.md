@@ -1,3 +1,6 @@
+### Changed
+- replace ',' with '.' for metrics [#45](https://gitlab-si.cordonweb.com/webagency/pim/icecat-mapper/-/issues/45)
+
 # 2.0.2
 ## Bug fix
 - GITHUB-45: Fix "test connection" button
