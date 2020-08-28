@@ -1,5 +1,6 @@
 # CHANGELOG
 
+## [2.1.4] - 2020-08-28
 ### Fixed
 - Fix measure unit, add Go in Gigabyte alternative symbols
 
